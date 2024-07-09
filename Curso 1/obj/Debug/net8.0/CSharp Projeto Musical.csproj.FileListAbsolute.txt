@@ -1,0 +1,45 @@
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\bin\Debug\net8.0\CSharp Projeto Musical.exe
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\bin\Debug\net8.0\CSharp Projeto Musical.deps.json
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\bin\Debug\net8.0\CSharp Projeto Musical.runtimeconfig.json
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\bin\Debug\net8.0\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\bin\Debug\net8.0\CSharp Projeto Musical.pdb
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\CSharp Projeto Musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\CSharp Projeto Musical.AssemblyInfoInputs.cache
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\CSharp Projeto Musical.AssemblyInfo.cs
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\CSharp Projeto Musical.csproj.CoreCompileInputs.cache
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\CSharp Projeto Musical.sourcelink.json
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\refint\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\CSharp Projeto Musical.pdb
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\CSharp Projeto Musical.genruntimeconfig.cache
+C:\Users\laura\Desktop\Alura\CSharp Projeto Musical\obj\Debug\net8.0\ref\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\Screen Sound\bin\Debug\net8.0\CSharp Projeto Musical.exe
+C:\Users\laura\Desktop\Alura\Screen Sound\bin\Debug\net8.0\CSharp Projeto Musical.deps.json
+C:\Users\laura\Desktop\Alura\Screen Sound\bin\Debug\net8.0\CSharp Projeto Musical.runtimeconfig.json
+C:\Users\laura\Desktop\Alura\Screen Sound\bin\Debug\net8.0\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\Screen Sound\bin\Debug\net8.0\CSharp Projeto Musical.pdb
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\CSharp Projeto Musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\CSharp Projeto Musical.AssemblyInfoInputs.cache
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\CSharp Projeto Musical.AssemblyInfo.cs
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\CSharp Projeto Musical.csproj.CoreCompileInputs.cache
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\CSharp Projeto Musical.sourcelink.json
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\refint\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\CSharp Projeto Musical.pdb
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\CSharp Projeto Musical.genruntimeconfig.cache
+C:\Users\laura\Desktop\Alura\Screen Sound\obj\Debug\net8.0\ref\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\bin\Debug\net8.0\CSharp Projeto Musical.exe
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\bin\Debug\net8.0\CSharp Projeto Musical.deps.json
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\bin\Debug\net8.0\CSharp Projeto Musical.runtimeconfig.json
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\bin\Debug\net8.0\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\bin\Debug\net8.0\CSharp Projeto Musical.pdb
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\CSharp Projeto Musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\CSharp Projeto Musical.AssemblyInfoInputs.cache
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\CSharp Projeto Musical.AssemblyInfo.cs
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\CSharp Projeto Musical.csproj.CoreCompileInputs.cache
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\CSharp Projeto Musical.sourcelink.json
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\refint\CSharp Projeto Musical.dll
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\CSharp Projeto Musical.pdb
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\CSharp Projeto Musical.genruntimeconfig.cache
+C:\Users\laura\Desktop\Alura\Screen Sound\Curso 1\obj\Debug\net8.0\ref\CSharp Projeto Musical.dll
